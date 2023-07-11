@@ -10,4 +10,5 @@ rafaelg7/rafaelg7 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/809012458785996821)](https://discord.com/users/809012458785996821)
 
